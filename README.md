@@ -9,7 +9,6 @@ Tôi không sở hữu Resource Pack này mọi bản quyền thuộc về @tlgm
 Như đã nói tôi không sở hữu bản quyền gói resource pack này hãy kiểm tra nguồn link tôi để:
 @Tlgm: https://youtube.com/@TLGM2308
 @Mod 2090: https://youtube.com/@danchoimod
-# Bạn có thể
--Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi
--Yêu cầu tôi gỡ Resource Pack nếu cần thiết
-BTW: Thank for downloading
+# Bạn có thể:
+Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi; Yêu cầu tôi gỡ Resource Pack nếu cần thiết
+# BTW: Thank for downloading
