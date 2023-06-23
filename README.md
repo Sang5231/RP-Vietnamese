@@ -11,4 +11,4 @@ Như đã nói tôi không sở hữu bản quyền gói resource pack này hãy
 @Mod 2090: https://youtube.com/@danchoimod
 # Bạn có thể:
 Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi; Yêu cầu tôi gỡ Resource Pack nếu cần thiết
-# BTW: Thank for downloading
+# BTW: Cản ơn đã tải xuống
