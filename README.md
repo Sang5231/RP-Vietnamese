@@ -9,11 +9,13 @@ Tôi không sở hữu gói này mọi bản quyền thuộc về @tlgm
 Mã nguồn của gói này thường xuyên được cập nhật(do tôi chưa có máy tính nên việc kéo thả tệp là bất khả thi)
 
 Các phiên bản phát hành trước sẽ bị xóa sau khi phiên bản chính thức phát hành
-# Mã nguồn
+# Mã nguồn:
 Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra nguồn tại đây:
 
 @Tlgm: https://youtube.com/@TLGM2308
 @Mod2090: https://youtube.com/@danchoimod
+# Vấn đề của gói:
+Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh /locate biome
 # Bạn có thể:
 Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi; yêu cầu tôi gỡ nó nếu cần thiết
 # BTW: Cản ơn đã tải xuống
