@@ -5,6 +5,8 @@ Một gói tài nguyên với mục đích tạo ra một bản dịch cho Minec
 # Lưu ý:
 Một só thứ dịch có thể không đúng.
 Tôi không sở hữu gói này mọi bản quyền thuộc về @tlgm
+
+Mã nguồn của gói này thường xuyên dược cập nhật(do tôi chưa có máy tính nên việc kéo thả tệp là bất khả thi)
 # Mã nguồn
 Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra nguồn tại đây:
 
