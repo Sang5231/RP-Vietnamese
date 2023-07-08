@@ -7,6 +7,8 @@ Một só thứ dịch có thể không đúng.
 Tôi không sở hữu gói này mọi bản quyền thuộc về @tlgm
 
 Mã nguồn của gói này thường xuyên được cập nhật(do tôi chưa có máy tính nên việc kéo thả tệp là bất khả thi)
+
+Các phiên bản phát hành trước sẽ bị xóa sau khi phiên bản chính thức phát hành
 # Mã nguồn
 Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra nguồn tại đây:
 
