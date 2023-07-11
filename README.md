@@ -14,6 +14,7 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 
 **@Tlgm: https://youtube.com/@TLGM2308**
 **@Mod2090: https://youtube.com/@danchoimod**
+**Kên của tôi: https://youtube.com/@Sang_VN**
 # Vấn đề của gói:
 Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh /locate biome
 # Bạn có thể:
