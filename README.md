@@ -17,5 +17,9 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 # Vấn đề của gói:
 Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh /locate biome
 # Bạn có thể:
-Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi; yêu cầu tôi gỡ nó nếu cần thiết
+Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi
+
+Báo cáo các lỗi trong bản dịch(nếu có)
+
+Yêu cầu tôi gỡ nó nếu cần thiết(có thể trực tiêls yêu cầu trên kênh tôi)
 # BTW: Cản ơn đã tải xuống
