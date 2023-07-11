@@ -12,8 +12,8 @@ Các phiên bản phát hành trước sẽ bị xóa sau khi phiên bản chín
 # Mã nguồn:
 Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra nguồn tại đây:
 
-@Tlgm: https://youtube.com/@TLGM2308
-@Mod2090: https://youtube.com/@danchoimod
+**@Tlgm: https://youtube.com/@TLGM2308**
+**@Mod2090: https://youtube.com/@danchoimod**
 # Vấn đề của gói:
 Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh /locate biome
 # Bạn có thể:
@@ -21,5 +21,5 @@ Gói này có một vấn đề chưa được giải quyết đó là dịch c�
 
 Báo cáo các lỗi trong bản dịch(nếu có)
 
-Yêu cầu tôi gỡ nó nếu cần thiết(có thể trực tiêls yêu cầu trên kênh tôi)
+Yêu cầu tôi gỡ nó nếu cần thiết(có thể trực tiếp yêu cầu trên kênh tôi)
 # BTW: Cản ơn đã tải xuống
