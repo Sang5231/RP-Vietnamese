@@ -4,7 +4,7 @@ Một gói tài nguyên với mục đích tạo ra một bản dịch cho Minec
 Đây là một gói gói tài nguyên tạo ra với mục đích dịch game sang tiếng Việt cho các game thủ VN
 # Lưu ý:
 Một só thứ dịch có thể không đúng.
-Tôi không sở hữu gói này mọi bản quyền thuộc về @tlgm
+Tôi không sở hữu gói này mọi bản quyền thuộc về **@tlgm**
 
 Mã nguồn của gói này thường xuyên được cập nhật(do tôi chưa có máy tính nên việc kéo thả tệp là bất khả thi)
 
@@ -14,7 +14,7 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 
 **@Tlgm: https://youtube.com/@TLGM2308**
 **@Mod2090: https://youtube.com/@danchoimod**
-**Kên của tôi: https://youtube.com/@Sang_VN**
+Kênh của tôi: https://youtube.com/@Sang_VN
 # Vấn đề của gói:
 Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh /locate biome
 # Bạn có thể:
