@@ -1,7 +1,7 @@
 # Giới thiệu chung:
 Một gói tài nguyên với mục đích tạo ra một bản dịch cho Minecraft Pe
 # Mô tả:
-Đây là một gói gói tài nguyên tạo ra với mục đích dịch game sang tiếng Việt cho các game thủ VN
+Đây là một gói tài nguyên tạo ra với mục đích dịch game sang tiếng Việt cho các game thủ VN
 # Lưu ý:
 Một só thứ dịch có thể không đúng.
 Tôi không sở hữu gói này mọi bản quyền thuộc về **@tlgm**
