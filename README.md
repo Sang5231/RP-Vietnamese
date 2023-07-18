@@ -27,6 +27,9 @@ Báo cáo các lỗi trong bản dịch(nếu có).
 
 Yêu cầu tôi gỡ nó nếu cần thiết(có thể trực tiếp yêu cầu trên kênh tôi).
 # Bạn không được phép
-Lấy gói tài nguyên gắn vào các liên kết khác nhầm mục đích kiếm tiền(tuy tôi không đánh bản quyền bạn được nhưng lương tâm của bạn sẽ cắn rứt).
-{à mà bạn đã làm rồi chăc sẽ ko biết cắn rứt là gì đâu}
+Lấy gói tài nguyên gắn vào các liên kết khác nhầm mục đích kiếm tiền.
+
+Xóa credit trong phần credit của gói.
+
+Chèn gói này vào apk của Minecraft vì điều này sẽ khiến cho Mojang đánh gậy chủ sở hữu
 # BTW: Cản ơn đã tải xuống.
