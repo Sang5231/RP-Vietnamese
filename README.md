@@ -31,5 +31,5 @@ Lấy gói tài nguyên gắn vào các liên kết khác nhầm mục đích ki
 
 Xóa credit trong phần credit của gói.
 
-Chèn gói này vào apk của Minecraft vì điều này sẽ khiến cho Mojang đánh gậy chủ sở hữu
+Chèn gói này vào apk của Minecraft(vì điều này sẽ khiến cho Mojang đánh gậy chủ sở hữu).
 # BTW: Cản ơn đã tải xuống.
