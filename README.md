@@ -19,9 +19,7 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 
 *Kênh của tôi: https://youtube.com/@Sang_VN*
 # Vấn đề của gói:
-Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**.
-# Ảnh chụp:
-![Screenshot_20230730-203801_Minecraft_mfnr](https://github.com/Sang5231/RP-Vietnamese)
+Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
 # Bạn có thể:
 Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi.
 
