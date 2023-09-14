@@ -28,6 +28,7 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
 
 **Vấn đề mới:** Có 2 vấn đề
+
 -Không thể dịch một số cài đặt mới của Minecraft(chủ yếu do Mojang lười làm phần này xD)
 
 -Không thể dịch giao diện mới của Minecraft PE vì Mojang chưa phát hành bản dịch liên quan tới nó.
