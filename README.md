@@ -27,7 +27,7 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 # Vấn đề của gói:
 Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
 
-**Vấn đề mới:** Chưa thể dịch giao diện mới của Minecraft PE vì Mojang chưa phát hành bản dịch liên quan tới bó.
+**Vấn đề mới:** Chưa thể dịch giao diện mới của Minecraft PE vì Mojang chưa phát hành bản dịch liên quan tới nó.
 # Bạn có thể:
 Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi.
 
