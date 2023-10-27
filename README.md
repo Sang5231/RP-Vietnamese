@@ -26,7 +26,9 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 [Ảnh chụp màn hình](https://drive.google.com/drive/folders/1__hHVA-ApYXl551HcCpTQpcYUgPR9rnI)
 # Vấn đề của gói:
 **Vấn đề đã biết:** 
+
 1.Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
+
 2.Gói **không thể hỗ trợ** cho màn hình "Death Screen" mới
 
 **Vấn đề mới:** Có 2 vấn đề
