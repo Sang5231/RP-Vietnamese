@@ -14,13 +14,11 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 - **[@Tlgm](https://youtube.com/@TLGM2308)**
 - **[@Mod2090](https://youtube.com/@danchoimod)**
 - *[Kênh của tôi](https://youtube.com/@Sang_VN)*
-# Một số ảnh chụp:
-[Ảnh chụp màn hình](https://drive.google.com/drive/folders/1__hHVA-ApYXl551HcCpTQpcYUgPR9rnI)
 # Vấn đề của gói:
 **Vấn đề đã biết:** 
 1. Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
 2. Gói **không thể hỗ trợ** cho màn hình "Death Screen" mới
-3. Không thể dịch một số cài đặt mới của Minecraft(chủ yếu do Mojang lười làm phần này xD)
+3. Không thể dịch một số cài đặt mới của Minecraft(chủ yếu do tôi lười làm phần này xD)
 # Bạn có thể:
 - Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi.
 - Báo cáo các lỗi trong bản dịch(nếu có).
