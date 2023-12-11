@@ -5,7 +5,7 @@
         "name": "The Ty-el's Vietnamese Language Pack",
     "uuid": "2307a814-1b5a-71a9-4261-9873efdea23f",
     "version": [ 1, 6, 5 ],
-    "min_engine_version": [ 1, 20, 50 ]
+    "min_engine_version": [ 1, 18, 0 ]
   },
   "modules": [
     {
