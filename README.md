@@ -3,7 +3,7 @@ Một gói tài nguyên với mục đích tạo ra một bản dịch cho Minec
 # Mô tả:
 - Đây là một gói tài nguyên tạo ra với mục đích dịch game sang tiếng Việt cho các game thủ VN.
 - Gói này được phát triển bởi **@tlgm** nhưng bằng lí do nào đó anh ấy đã tạm dừng việc phát triển gói này. Vì lí do trên tôi đã nghiên cứu và tạo ra gói dịch tiếng Việt dựa trên gói của anh ấy.
-- Tải gói tài nguyên góc [tại đây](https://mcpedl.com/the-ty-els-vietnamese-language-pack/)
+- Tải gói tài nguyên gốc [tại đây](https://mcpedl.com/the-ty-els-vietnamese-language-pack/)
 # Lưu ý:
 1. **Gói này không có mục đích thay thế gói chính!!!**
 2. Một só bản dịch có thể không đúng.
