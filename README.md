@@ -9,6 +9,7 @@ Một gói tài nguyên với mục đích tạo ra một bản dịch cho Minec
 2. Một só bản dịch có thể không đúng.
 3. Tôi không sở hữu gói này mọi bản quyền thuộc về **@tlgm**.
 4. Các **phiên bản phát hành trước** sẽ bị xóa sau khi **phiên bản chính thức** được phát hành.
+5. Nên tắt **google dịch** để có trãi nghiệm tốt nhất khi dùng kho lưu trữ này
 # Mã nguồn:
 Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra nguồn tại đây:
 - **[@Tlgm](https://youtube.com/@TLGM2308)**
