@@ -18,7 +18,7 @@ Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra ng
 # Vấn đề của gói:
 **Vấn đề đã biết:** 
 1. Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
-2. **Chỉ hỗ trợ** màn hình "bạn đã chết" mới từ phiên bản **[beta 1.20.70.22](https://minecraft.wiki/w/Bedrock_Edition_Preview_1.20.70.22)** trở lên và trong tương lai là hỗ trợ các phiên bản từ **[1.20.70](https://minecraft.wiki/w/Bedrock_Edition_1.20.70)** trở lên
+2. **Chỉ hỗ trợ** màn hình "bạn đã chết" mới từ phiên bản **[beta 1.20.70.22](https://minecraft.wiki/w/Bedrock_Edition_Preview_1.20.70.22)** trở lên và phiên bản từ **[1.20.70](https://minecraft.wiki/w/Bedrock_Edition_1.20.70)** trở lên
 4. Không thế dịch một số mục của Cửa hàng
 5. Không thể dịch thư được gửi từ Mojang
 # Bạn có thể:
