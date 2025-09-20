@@ -1,17 +1,70 @@
-# Giới thiệu chung:
-Một gói tài nguyên với mục đích tạo ra một bản dịch cho Minecraft Pe.
-# Mô tả:
-- Đây là một gói tài nguyên tạo ra với mục đích dịch game sang tiếng Việt cho các game thủ VN.
-- Gói này được phát triển bởi **@tlgm** nhưng bằng lí do nào đó người tạo ra gói đã tạm dừng việc phát triển gói này. Vì lí do trên tôi đã nghiên cứu và tạo ra gói dịch tiếng Việt dựa trên gói bản dịch có sẵn.
-- Tải gói tài nguyên gốc [tại đây](https://mcpedl.com/the-ty-els-vietnamese-language-pack/)
-# Lưu ý:
-1. **Gói này không có mục đích thay thế gói chính!!!**
-2. Một só bản dịch có thể không đúng.
-3. Tôi không sở hữu gói này mọi bản quyền thuộc về **@tlgm**.
-4. Các phiên bản **pre-release** sẽ bị xóa sau khi phiên bản **chính thức** được phát hành.
-6. Nên tắt **google dịch** để có trãi nghiệm tốt nhất khi dùng kho lưu trữ này
-# Mã nguồn:
-Như đã nói tôi không sở hữu bản quyền gói này hãy kiểm tra nguồn tại đây:
+# 🇻🇳 Vietnamese Language Pack for Minecraft PE
+
+> **Bản dịch tiếng Việt dành cho Minecraft PE – Mang trải nghiệm game gần gũi hơn cho cộng đồng Việt Nam!**
+
+---
+
+## 📦 Giới thiệu
+
+Đây là **gói tài nguyên** giúp chuyển đổi ngôn ngữ trong Minecraft PE sang **tiếng Việt**. Dự án được khởi đầu bởi [@tlgm](https://youtube.com/@TLGM2308) và hiện nay tiếp tục được phát triển, duy trì bởi cộng đồng.
+
+- **Tải gói gốc:** [Tại đây](https://mcpedl.com/the-ty-els-vietnamese-language-pack/)
+- **Phiên bản:** Luôn cập nhật theo các bản phát hành mới của Minecraft PE
+
+---
+
+## 📝 Mô tả
+
+- Chuyển đổi toàn bộ ngôn ngữ trong game sang tiếng Việt, thân thiện với game thủ Việt Nam.
+- Được cập nhật, chỉnh sửa và đóng góp bởi cộng đồng.
+- Khuyến khích góp ý, báo lỗi để cải thiện chất lượng bản dịch.
+
+---
+
+## ⚠️ Lưu ý quan trọng
+
+1. **Gói này KHÔNG thay thế gói chính!**
+2. Một số bản dịch có thể chưa chính xác hoặc chưa hoàn thiện.
+3. Bản quyền thuộc về [@tlgm](https://youtube.com/@TLGM2308). Người đóng góp chỉ duy trì và phát triển tiếp.
+4. Các bản **pre-release** sẽ bị xóa sau khi bản chính thức phát hành.
+5. Nên **tắt Google Dịch** trên trình duyệt để trải nghiệm tốt nhất.
+6. Không chèn gói vào file APK hoặc sử dụng cho mục đích thương mại.
+
+---
+
+## 🛠️ Các vấn đề đã biết
+
+- Dịch tên **quần xã sinh vật** trong lệnh `/locate biome` còn hạn chế.
+- Chỉ hỗ trợ màn hình "Bạn đã chết" mới từ phiên bản **[beta 1.20.70.22](https://minecraft.wiki/w/Bedrock_Edition_Preview_1.20.70.22)** trở lên.
+- Một số mục trong **Cửa hàng** không thể dịch.
+- Tin nhắn từ **Mojang** vẫn hiển thị tiếng Anh.
+- Có thể còn sót lỗi dịch thuật nhỏ.
+
+---
+
+## 🚀 Đóng góp & Báo lỗi
+
+- Đóng góp ý nghĩa, sửa lỗi: [Tại đây trên GitHub](https://github.com/Sang5231/RP-Vietnamese/issues) hoặc trên kênh YouTube cá nhân.
+- Báo cáo lỗi trong bản dịch nếu phát hiện.
+- Yêu cầu gỡ bỏ bản dịch (nếu cần) cũng có thể liên hệ trực tiếp.
+
+---
+
+## ⛔ Những việc KHÔNG được phép
+
+- Sử dụng gói tài nguyên cho mục đích thương mại, kiếm tiền.
+- Xóa credit, thay đổi thông tin tác giả.
+- Chèn gói vào các bản APK/phần mềm lậu.
+
+---
+
+## 📚 Nguồn tham khảo & Credit
+
+- **[@tlgm](https://youtube.com/@TLGM2308)**
+
+---
+
+> **Cảm ơn bạn đã sử dụng bản dịch! Hãy góp ý để chúng ta có một bản dịch hoàn chỉnh nhất cho cộng đồng Minecraft Việt Nam!**
 - **[@Tlgm](https://youtube.com/@TLGM2308)**
 - *[@Mod2090](https://youtube.com/@danchoimod)*
 - *[Kênh của tôi](https://youtube.com/@Sang_VN)*
