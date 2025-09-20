@@ -27,7 +27,7 @@
 2. Một số bản dịch có thể chưa chính xác hoặc chưa hoàn thiện.
 3. Bản quyền thuộc về [@tlgm](https://youtube.com/@TLGM2308). Người đóng góp chỉ duy trì và phát triển tiếp.
 4. Các bản **pre-release** sẽ bị xóa sau khi bản chính thức phát hành.
-5. Nên **tắt Google Dịch** trên trình duyệt để trải nghiệm tốt nhất.
+5. Nên **tắt Google Dịch** trên trình duyệt để trải nghiệm tốt nhất với gói lưu trữ.
 6. Không chèn gói vào file APK hoặc sử dụng cho mục đích thương mại.
 
 ---
