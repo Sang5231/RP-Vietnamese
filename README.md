@@ -6,7 +6,7 @@
 
 ## 📦 Giới thiệu
 
-Đây là **gói tài nguyên** giúp chuyển đổi ngôn ngữ trong Minecraft PE sang **tiếng Việt**. Dự án được khởi đầu bởi [@tlgm](https://youtube.com/@TLGM2308) và hiện nay tiếp tục được phát triển, duy trì bởi cộng đồng.
+Đây là **gói tài nguyên** giúp chuyển đổi ngôn ngữ trong Minecraft PE sang **tiếng Việt**. Dự án được khởi đầu bởi [@tlgm](https://youtube.com/@TLGM2308).
 
 - **Tải gói gốc:** [Tại đây](https://mcpedl.com/the-ty-els-vietnamese-language-pack/)
 - **Phiên bản:** Luôn cập nhật theo các bản phát hành mới của Minecraft PE
@@ -66,7 +66,6 @@
 
 > **Cảm ơn bạn đã sử dụng bản dịch! Hãy góp ý để chúng ta có một bản dịch hoàn chỉnh nhất cho cộng đồng Minecraft Việt Nam!**
 - **[@Tlgm](https://youtube.com/@TLGM2308)**
-- *[@Mod2090](https://youtube.com/@danchoimod)*
 - *[Kênh của tôi](https://youtube.com/@Sang_VN)*
 # Vấn đề của gói:
 **Vấn đề đã biết:** 
