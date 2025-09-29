@@ -1,0 +1,4 @@
+# Đặt JSON làm ngôn ngữ chính (vì resource pack chủ yếu dùng JSON)
+*.json linguist-language=JSON
+*.lang linguist-language=JSON
+*.branchive linguist-language=JSON
