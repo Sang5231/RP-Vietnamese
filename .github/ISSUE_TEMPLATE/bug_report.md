@@ -4,7 +4,7 @@ about: Báo cáo lỗi bản dịch của RP-Vietnamese
 title: "[Báo cáo lỗi] "
 labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 ---
-### 100% Bugs Free
+### 100% Bugs Free(i swear)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/257cd8e2-4573-490b-8aab-96dad471d6d8" width="300" alt="Bug">
 </p>
