@@ -6,7 +6,7 @@ labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 ---
 ### 100% Bugs Free(i swear)
 <p align="center">
-  <img src="https://minecraft.wiki/w/Silverfish#/media/File:Silverfish_JE1_BE1.gif" width="300" alt="Bug">
+  <img src="https://github.com/user-attachments/assets/f08df479-6c7d-44c5-a279-cb6537714b81" width="300" alt="Bug">
 </p>
 <!-- Bạn có thể viết bằng Tiếng Việt hoặc Tiếng Anh -->
 <!-- You can write in Vietnamese or English -->
