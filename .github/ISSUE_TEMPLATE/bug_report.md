@@ -1,38 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 🐛 Báo Cáo Lỗi / Bug Report
+about: Báo cáo lỗi bản dịch hoặc vấn đề trong dự án RP-Vietnamese
+title: "[LỖI] "
+labels: ["bug", "translation", "needs-triage"]
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- Bạn có thể viết bằng Tiếng Việt hoặc Tiếng Anh -->
+<!-- You can write in Vietnamese or English -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 📝 Mô Tả Lỗi / Bug Description
+<!-- Mô tả rõ ràng lỗi là gì / Clearly describe what the bug is -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🗺️ Vị Trí Lỗi / Bug Location
+**Tập tin / File:** 
+**Dòng / Line:** 
+**Nhân vật / NPC:** 
+**Vật phẩm / Item:** 
+**Đoạn hội thoại / Dialogue:** 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 🔍 Cách Tái Hiện Lỗi / Reproduction Steps
+1. 
+2. 
+3. 
+4. 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## ❌ Hành Vi Hiện Tại / Current Behavior
+<!-- Chuyện gì đang xảy ra? / What actually happens? -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## ✅ Hành Vi Mong Đợi / Expected Behavior
+<!-- Chuyện gì đáng lẽ phải xảy ra? / What should happen? -->
 
-**Additional context**
-Add any other context about the problem here.
+## 📸 Bằng Chứng / Evidence
+**Ảnh chụp màn hình / Screenshot:**
+<!-- Kéo thả ảnh vào đây / Drag and drop images here -->
+
+**Văn bản gốc / Original Text:**
