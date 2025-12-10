@@ -1,6 +1,6 @@
 ---
 name: 🐛 Báo Cáo Lỗi / Bug Report
-about: Báo cáo lỗi bản dịch hoặc vấn đề trong dự án RP-Vietnamese
+about: Báo cáo lỗi bản dịch của RP-Vietnamese
 title: "[LỖI] "
 labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 assignees: ''
@@ -30,6 +30,7 @@ assignees: ''
 
 ## 📸 Bằng Chứng / Evidence
 **Ảnh chụp màn hình / Screenshot:**
+<!-- Không cần chụp tự tôi sẽ kiểm tra nhưng có càng tốt -->
 <!-- Kéo thả ảnh vào đây / Drag and drop images here -->
 
 **Văn bản gốc / Original Text:**
