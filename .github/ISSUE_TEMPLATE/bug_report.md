@@ -1,8 +1,8 @@
 ---
-Tên/Name: 🐛 Báo Cáo Lỗi / Bug Report
-Thông tin/About: Báo cáo lỗi bản dịch của RP-Vietnamese
-Tiêu đề/Title: "[Báo cáo lỗi] "
-Nhãn/Labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
+name: 🐛 Báo Cáo Lỗi / Bug Report
+about: Báo cáo lỗi bản dịch của RP-Vietnamese
+title: "[Báo cáo lỗi] "
+labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 ---
 
 <!-- Bạn có thể viết bằng Tiếng Việt hoặc Tiếng Anh -->
