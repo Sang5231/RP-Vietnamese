@@ -1,5 +1,6 @@
 ---
-name: 🐞 Báo Cáo Lỗi / Bug Report
+name: ![Silverfish_JE1_BE1](https://github.com/user-attachments/assets/6b3d6e49-29ce-40d9-9193-41ebadd5c0da)
+ Báo Cáo Lỗi / Bug Report
 about: Báo cáo lỗi bản dịch của RP-Vietnamese
 title: "[Báo cáo lỗi] "
 labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
