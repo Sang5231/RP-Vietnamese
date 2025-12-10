@@ -2,7 +2,7 @@
 name: 🐛 Báo Cáo Lỗi / Bug Report
 about: Báo cáo lỗi bản dịch hoặc vấn đề trong dự án RP-Vietnamese
 title: "[LỖI] "
-labels: ["bug", "translation", "needs-triage"]
+labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 assignees: ''
 ---
 
