@@ -15,20 +15,17 @@ assignees: ''
 ## 🗺️ Vị Trí Lỗi / Bug Location
 **Tập tin / File:** 
 **Dòng / Line:** 
-**Nhân vật / NPC:** 
-**Vật phẩm / Item:** 
-**Đoạn hội thoại / Dialogue:** 
 
-## 🔍 Cách Tái Hiện Lỗi / Reproduction Steps
+## 🔍 Danh sách lỗi / Issue List
 1. 
 2. 
 3. 
 4. 
 
-## ❌ Hành Vi Hiện Tại / Current Behavior
+## ❌ Hiện Tại / Current
 <!-- Chuyện gì đang xảy ra? / What actually happens? -->
 
-## ✅ Hành Vi Mong Đợi / Expected Behavior
+## ✅ Mong Đợi / Expected
 <!-- Chuyện gì đáng lẽ phải xảy ra? / What should happen? -->
 
 ## 📸 Bằng Chứng / Evidence
