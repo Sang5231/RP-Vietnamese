@@ -7,7 +7,7 @@ labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 
 <!-- Bạn có thể viết bằng Tiếng Việt hoặc Tiếng Anh -->
 <!-- You can write in Vietnamese or English -->
-
+![Bug](https://github.com/user-attachments/assets/257cd8e2-4573-490b-8aab-96dad471d6d8)
 ### 📝 Mô Tả Lỗi / Bug Description
 <!-- Mô tả rõ ràng lỗi là gì / Clearly describe what the bug is -->
 
