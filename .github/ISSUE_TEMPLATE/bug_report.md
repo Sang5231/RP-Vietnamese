@@ -10,6 +10,7 @@ labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 </p>
 <!-- Bạn có thể viết bằng Tiếng Việt hoặc Tiếng Anh -->
 <!-- You can write in Vietnamese or English -->
+
 ### 📝 Mô Tả Lỗi / Bug Description
 <!-- Mô tả rõ ràng lỗi là gì / Clearly describe what the bug is -->
 
