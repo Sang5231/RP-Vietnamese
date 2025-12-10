@@ -1,11 +1,11 @@
-![Bug](https://github.com/user-attachments/assets/257cd8e2-4573-490b-8aab-96dad471d6d8)
 ---
 name: 🐞Báo Cáo Lỗi / Bug Report
 about: Báo cáo lỗi bản dịch của RP-Vietnamese
 title: "[Báo cáo lỗi] "
 labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 ---
-
+### Bug
+![Bug](https://github.com/user-attachments/assets/257cd8e2-4573-490b-8aab-96dad471d6d8)
 <!-- Bạn có thể viết bằng Tiếng Việt hoặc Tiếng Anh -->
 <!-- You can write in Vietnamese or English -->
 ### 📝 Mô Tả Lỗi / Bug Description
