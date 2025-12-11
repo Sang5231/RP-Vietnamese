@@ -11,45 +11,61 @@
     {
       "description": "@tlgm2308 is the bad creator.",
       "type": "resources",
-      "uuid": "2381e48a-ab67-b18a-1272-23c57ed3f42f",
+      "uuid": "2380e48a-aa67-418a-8172-23a57bd3f42e",
       "version": [ 1, 6, 5 ]
     }
   ],
   "subpacks": [
     {
       "folder_name": "none",
-      "name": "none\nFont: (có thể tùy chỉnh)\nĐặt gói font khác phía trên pack này để sử dụng font của riêng bạn.",
+      "name": "None (Customizable)",
       "memory_tier": 0
     },
     {
-      "folder_name": "unicode",
-      "name": "unicode\nFont: Unicode Remastered!\nChữ nhỏ dễ nhìn :), default8.png remade by @tlgm2308",
+      "folder_name": "unifont",
+      "name": "Unifont + Noto Sans",
       "memory_tier": 0
     },
     {
-      "folder_name": "mojangles_smooth",
-      "name": "mojangles_smooth\nFont: Minecraft Seven (Smooth)\nCredits: @fromgate (Twitter), remade & smoothed by @tlgm2308",
+      "folder_name": "minecraftSeven_smooth",
+      "name": "MinecraftSeven (Smooth Variant)",
       "memory_tier": 0
     },
     {
-      "folder_name": "mojangles",
-      "name": "mojangles [Default]\nFont: Minecraft Seven\nCredits: @fromgate (Twitter), remade by @tlgm2308" ,
+      "folder_name": "minecraftSeven",
+      "name": "MinecraftSeven [Default]",
       "memory_tier": 0
     }
   ],
   "metadata": {
     "authors": [ "tlgm2308" ],
-    "license": "Only use the link in 'url' below for pack sharing. You are not allowed to use or claim any of my code and use as your own, or re-upload this pack to different sites, or review this pack but no credits or use different download links. You can open README.txt to read more.",
-    "url": "https://mcpedl.com/the-ty-els-vietnamese-language-pack/"
+    "license": "You are not allowed to use or claim any of my code and use as your own, or re-upload this pack to different sites, or review this pack but no credits or use different download links. You can open README.txt to read more.",
+    "url": "https://x.com/tlgm2308"
   },
   "settings": [
     {
       "type": "label",
-      "text": "P/S: Bản quyền thuộc về tlgm2308"
+      "text": "------------------------------"
     },
     {
       "type": "label",
-      "text": "VI: §o§6Tại đây bạn có thể thay đổi font chữ cho Ty-el Vietnamese, nếu bạn không sử dụng ngôn ngữ tiếng Việt mà muốn sử dụng font của pack này thì cứ thoải mái. Bạn có thể phải khởi động lại trò chơi sau khi thay đổi các gói phụ."
+      "text": "EN: Here you can change font styles for Ty-el Vietnamese, you are free to use this pack if you want to use only this pack's fonts without pack redistributions. You may need to restart the game after changing subpacks to fix all visual bugs due to font changes."
+    },
+    {
+      "type": "label",
+      "text": "VI: §o§6Tại đây bạn có thể thay đổi font chữ cho Ty-el Vietnamese, bạn có thể thoải mái sử dụng gói này nếu bạn chỉ muốn sử dụng font chữ mà không phân phối lại gói. Bạn nên phải khởi động lại trò chơi sau khi thay đổi các gói phụ để font chữ có thể tải lại một cách chính xác.§r"
+    },
+    {
+      "type": "label",
+      "text": "------------------------------"
+    },
+    {
+      "type": "label",
+      "text": "§l§eBUNDLED IN THIS PACK:§r"
+    },
+    {
+      "type": "label",
+      "text": "- MinecraftSeven & MinecraftSeven (Smooth Variant):\nOriginally created by @fromgate (Twitter), modified by @tlgm2308 (Twitter).\n\n- Unifont:\nCreated by @tlgm2308 (Twitter), based on the Unicode font part that can be found in Minecraft game data (which is Unifont).\n\n- Noto Sans (/font/NotoSans/NotoSans-Regular.ttf):\nNoto Sans is licensed under the SIL Open Font License, Version 1.1. The copy of this license can be found in /font/NotoSans/LICENSE.txt."
     }
   ]
 }
