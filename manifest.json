@@ -1,11 +1,11 @@
 {
   "format_version": 2,
   "header": {
-    "description": "v1.6.6-111225 (1.21- 26.0)\nBy @tlgm2308 (X/Twitter) ;-;. Adds Vietnamese language supports to Minecraft Bedrock! Made for Vietnamese players by §c<3§r.",
-    "name": "The Ty-el's Vietnamese Language Pack",
-    "uuid": "2307a804-1a5a-41a9-8261-9873ddcea23f",
+    "description": "v1.6.6-141225 (1.21- 1.26)\nBy @tlgm2308 (Twitter) §e§rMade for Vietnamese players by §c<3§r. §4Exclusive on §2MCPEDL.com§r.",
+        "name": "The Ty-el's Vietnamese Language Pack",
+    "uuid": "2307a814-1b5a-71a9-4261-9873efdea23f",
     "version": [ 1, 6, 6 ],
-    "min_engine_version": [ 1, 26, 0 ]
+    "min_engine_version": [ 1, 21, 130 ]
   },
   "modules": [
     {
