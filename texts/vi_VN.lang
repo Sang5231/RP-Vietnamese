@@ -58,10 +58,6 @@ accessibility.button.navigateRight=Phím mũi tên phải
 accessibility.button.close=đóng
 accessibility.button.back=trở về
 accessibility.button.exit=Thoát
-
-## Text for the filter button in search menu which làm việc as follows:
-##		a. When there are 0 filters applied - "Filter Button X of Y"
-##		b. When 1 or more filters are applied - "Filter Button X of Y, Z Applied" where Z is the number of filters applied.
 accessibility.button.filter=Lọc
 accessibility.button.filter.appliedCount=Áp dụng %s
 accessibility.button.sort=Loại
@@ -839,7 +835,7 @@ commands.bossbar.description=Tạo và sửa đổi thanh boss tùy chỉnh.
 commands.bossbar.get.max=Thanh boss tùy chỉnh [%1$s] có giới hạn tối đa %2$d
 commands.bossbar.get.players=Thanh boss tùy chỉnh [%1$s] hiện có %2$s người chơi hiện đang trực tuyến: %3$s
 commands.bossbar.get.players.none=Thanh boss tùy chỉnh [%1$s] hiện không có người chơi đang trực tuyến
-commands.bossbar.get.players.one=Thanh boss tùy chỉnh [%1$s] hiện có 1 Người chơi hiện đang trực tuyến: %2$s
+commands.bossbar.get.players.one=Thanh boss tùy chỉnh [%1$s] hiện có 1 người chơi hiện đang trực tuyến: %2$s
 commands.bossbar.get.value=Thanh boss tùy chỉnh [%1$s] có giá trị của %2$d	#
 commands.bossbar.get.visible.true=Thanh boss tùy chỉnh [%1$s] của bạn hiện đang hiển thị
 commands.bossbar.get.visible.false=Thanh boss tùy chỉnh [%1$s] của bạn hiện đã bị ẩn
@@ -1309,13 +1305,6 @@ commands.schedule.tickingarea.clear.success=Đã loại bỏ %1$d chức năng c
 commands.schedule.tickingarea.clear.failure=Không có chức năng nào bị xóa với tên vùng đánh dấu %1$s.
 commands.schedule.tickingarea.func.clear.success=Đã loại bỏ %1$d chức năng có tên vùng đánh dấu %2$s và có tên %3$s.
 commands.schedule.tickingarea.func.clear.failure=Không có chức năng nào bị xóa với tên vùng đánh dấu %1$s và với tên %3$s.
-
-## Scoreboard is composed of several Objectives, which can be displayed to players in 3 different 'slots'	##
-## An Objective holds the scores that each Người chơi has for the Objective. 									##
-## Objectives can have different Criteria, which dictate how the scores are updated for this Objective		##
-## Objectives have two names, one for internal use and the other for Displaying in the UI					##
-
-## Going overboard on the context but Scoreboards do some weird stuff :D 									##
 
 commands.scoreboard.description=Theo dõi và hiển thị điểm số cho các mục tiêu khác nhau.
 commands.scoreboard.allMatchesFailed=Không có điểm giống
@@ -1831,12 +1820,8 @@ course.edu.restartFailed.body=Chúng tôi không tìm thấy bài học này. Ch
 course.edu.startButton=Bắt đầu
 course.edu.tasks=Nhiệm vụ
 course.edu.teacherHasNotGivenAcccess=Giáo viên đã không cho bạn truy cập vào bài học này.
-## The title is prefixed with the order of the course, followed by a colon, followed by the content title.
-## Example: "1: This is the title of a Course"
 course.edu.titleWithOrderPrefix.formatted=%d: %s
 course.edu.tryItNowButton=Thử ngay
-
-## Edu Course MultiNgười chơi strings
 course.edu.enterIp=Nhập địa chỉ IP của thế giới mà bạn muốn tham gia.
 course.edu.enterConnection=Nhập ID kết nối của thế giới mà bạn muốn tham gia.
 course.edu.enterConnectionScreenReader=Nhập I.D kết nối của thế giới mà bạn muốn tham gia.
@@ -2089,7 +2074,7 @@ createWorldScreen.eduCloud.resolution.uploadNow=Tải lên ngay
 createWorldScreen.eduCloud.resolution.uploadOpen=Tải lên và chơi
 createWorldScreen.experimentalDataDrivenJigsawStructures=Cấu trúc dựa trên dữ liệu dành cho Khối Mảnh ghép
 createWorldScreen.experimentalDataDrivenJigsawStructuresDescription=Tải các cấu trúc của Khối Mảnh ghép từ thư mục worldgen của gói hành vi
-createWorldScreen.experimentalDeferredTechnicalPreview=Các tính năng của Render Rồng dành cho nhà sáng tạo
+createWorldScreen.experimentalDeferredTechnicalPreview=Các tính năng của Render Dragon dành cho nhà sáng tạo
 createWorldScreen.experimentalDeferredTechnicalPreviewDescription=Kích hoạt kĩ thuật kết xuất trì hoãn. Yêu cầu gói tài nguyên hỗ trợ PBR và phần cứng tương thích.
 
 ## Cross Platform Toggle
@@ -2529,7 +2514,7 @@ realmsSettingsScreen.preferredRegions.WestUs2=Washington, Mỹ
 realmsSettingsScreen.changesNotApplied=Những thay đổi đối với vùng máy chủ sẽ được áp dụng vào lần tiếp theo Realm khởi động 
 realmsSettingsScreen.setRegionHelp=Đặt trợ giúp vùng
 realmsSettingsScreen.preferredRegions.tts.owner=Tự động chọn vùng dựa trên kết nối của người chơi đầu tiên bắt đầu phiên chơi trò chơi
-realmsSettingsScreen.preferredRegions.tts.firstToJoin=Automatically selects region based on the connection of the first Người chơi to start a gameplay session
+realmsSettingsScreen.preferredRegions.tts.firstToJoin=Tự động chọn khu vực dựa trên kết nối của người chơi đầu tiên bắt đầu phiên chơi.
 realmsSettingsScreen.serviceQuality.tts.high=Kết nối mạnh
 realmsSettingsScreen.serviceQuality.tts.med=Kết nối tốt
 realmsSettingsScreen.serviceQuality.tts.low=Kết nối chậm
@@ -6677,7 +6662,7 @@ mount.onboard=Nhấn %1$s để rời khỏi thú cưỡi	#
 multiplayer.connect=Kết nối	#
 multiplayer.downloadingStats=Đang tải xuống thống kê & thành tích...	#
 multiplayer.downloadingTerrain=Đang tải xuống địa hình	#
-multiplayer.info1=Minecraft MultiNgười chơi hiện vẫn chưa kết thúc, nhưng ở đó	#
+multiplayer.info1=Minecraft Multiplayer hiện vẫn chưa kết thúc, nhưng ở đó	#
 multiplayer.info2=một số thử nghiệm ban đầu có lỗi đang diễn ra.	#
 multiplayer.ipinfo=Nhập IP của máy chủ để kết nối với nó:	#
 multiplayer.packErrors=Không tải được ít nhất một trong các gói hành vi hoặc tài nguyên của bạn.	#
@@ -11330,14 +11315,12 @@ xbox.report.whereReport=Bạn đã quan sát hành vi xấu từ đâu?	#
 xbox.report.whereReportDescription=Vui lòng cho chúng tôi biết chuyện xấu gì đã diễn ra. Điều này sẽ giúp chúng tôi nghiên cứu trường hợp của bạn.	#
 xbox.report.whyReport=Tại sao bạn lại báo cáo %s?	#
 
-## Người chơi safety report areas where abuse took place
 xbox.report.area.chat=Tin nhắn trò chuyện	#
 xbox.report.area.skin=Ngoại hình người chơi	#
 xbox.report.area.gameplay=Lối chơi	#
 xbox.report.area.ingame=Xây dựng trong trò chơi	#
 xbox.report.area.other=Khác	#
 
-## Người chơi safety ban reasons defined by legal/compliance
 xbox.report.cyberbullying=Bắt nạt trên mạng	#
 xbox.report.falseReporting=Quá nhiều báo cáo sai / không chính xác	#
 xbox.report.exploits=Lợi dụng và ứng dụng của bên thứ ba	#
@@ -11377,7 +11360,6 @@ xbox.report.quittingEarly=Bỏ cuộc sớm	#
 xbox.report.unsportingBehavior=Hành vi không đàng hoàng	#
 xbox.report.voiceCommunication=Giao tiếp âm thanh	#
 
-## Người chơi safety toast messages
 safety.muted.title=Bạn đã tạm thời bị tắt tiếng trong trò chuyện.	#
 safety.muted.message=Hãy nhớ tuân theo Tiêu chuẩn cộng đồng của Minecraft.	#
 
@@ -11561,7 +11543,7 @@ tips.edu.7=Bạn đã hoàn thành tác phẩm của mình? Nhờ những ngư�
 tips.edu.8=Để viết mã trong Minecraft, nhấn "C" trên bàn phím của bạn hoặc chạm vào biểu tượng Agent ở trên màn hình của bạn.	#
 tips.edu.9=Dùng Thư viện để tìm thế giới trò chơi mới để xây dựng.	#
 tips.edu.10=Tìm kiếm một quần xã sinh vật cụ thể? Dùng thử Thư viện.	#
-tips.edu.11=NPC là viết tắt của Non-Người chơi Character tức là nhân vật không phải người chơi.	#
+tips.edu.11=NPC là viết tắt của Non-Player Character tức là nhân vật không phải người chơi.	#
 tips.edu.12=Trong chế độ Sinh tồn, người chơi phải tìm tài nguyên của riêng mình.	#
 tips.edu.13=Trong chế độ Sáng tạo, người chơi có thể tự do chọn để xây dựng bằng bất kỳ khối nào trong Minecraft.	#
 tips.edu.14=Người trợ giúp rô bốt xây dựng mã của bạn được gọi là Agent.	#
