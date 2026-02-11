@@ -1,10 +1,10 @@
 {
   "format_version": 2,
   "header": {
-    "description": "v1.6.5-2732025 (1.21)\nBy @tlgm2308 (Twitter) §e§rMade for Vietnamese players by §c<3§r. §4Exclusive on §2MCPEDL.com§r.",
+    "description": "v1.6.6-110225 (1.21- 1.26)\nBy @tlgm2308 (Twitter) §e§rMade for Vietnamese players by §c<3§r. §4Exclusive on §2MCPEDL.com§r.",
         "name": "The Ty-el's Vietnamese Language Pack",
     "uuid": "2307a814-1b5a-71a9-4261-9873efdea23f",
-    "version": [ 1, 6, 5 ],
+    "version": [ 1, 6, 6 ],
     "min_engine_version": [ 1, 21, 130 ]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "description": "@tlgm2308 is the bad creator.",
       "type": "resources",
       "uuid": "2380e48a-aa67-418a-8172-23a57bd3f42e",
-      "version": [ 1, 6, 5 ]
+      "version": [ 1, 6, 6 ]
     }
   ],
   "subpacks": [
