@@ -36,7 +36,7 @@
 
 - Dịch tên **quần xã sinh vật** trong lệnh `/locate biome` còn hạn chế.
 - Chỉ hỗ trợ màn hình "Bạn đã chết" mới từ phiên bản **[beta 1.20.70.22](https://minecraft.wiki/w/Bedrock_Edition_Preview_1.20.70.22)** trở lên.
-- Một số mục trong **Cửa hàng** không thể dịch.
+- Một số mục trong **Marketplace** không thể dịch.
 - Tin nhắn từ **Mojang** vẫn hiển thị tiếng Anh.
 - Có thể còn sót lỗi dịch thuật nhỏ.
 
@@ -71,7 +71,7 @@
 **Vấn đề đã biết:** 
 1. Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
 2. **Chỉ hỗ trợ** màn hình "bạn đã chết" mới từ phiên bản **[beta 1.20.70.22](https://minecraft.wiki/w/Bedrock_Edition_Preview_1.20.70.22)** trở lên và phiên bản từ **[1.20.70](https://minecraft.wiki/w/Bedrock_Edition_1.20.70)** trở lên
-4. Không thế dịch một số mục của Cửa hàng
+4. Không thế dịch một số mục của Marketplace
 5. Không thể dịch thư được gửi từ Mojang
 # Bạn có thể:
 - Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi.
