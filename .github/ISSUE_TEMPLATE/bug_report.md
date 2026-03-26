@@ -1,6 +1,6 @@
 ---
 name: 🐞Báo Cáo Lỗi / Bug Report
-about: Báo cáo lỗi bản dịch của RP-Vietnamese
+about: Báo cáo lỗi bản dịch của pack
 title: "[Báo cáo lỗi] "
 labels: ["Lỗi", "Dịch thuật", "Cần sửa"]
 ---
