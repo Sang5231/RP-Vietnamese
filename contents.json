@@ -212,6 +212,9 @@
     },
     {
       "path": "texts/vi_VN.lang"
+    },
+    {
+      "path": "ui/store_common.json"
     }
   ],
   "version": 1
