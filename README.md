@@ -44,7 +44,7 @@
 
 ## 🚀 Đóng góp & Báo lỗi
 
-- Đóng góp ý nghĩa, sửa lỗi: [Tại đây trên GitHub](https://github.com/Sang5231/RP-Vietnamese/issues) hoặc trên kênh YouTube cá nhân.
+- Đóng góp bản dịch, sửa lỗi: [Tại đây trên GitHub](https://github.com/Sang5231/RP-Vietnamese/issues) hoặc trên kênh YouTube cá nhân.
 - Báo cáo lỗi trong bản dịch nếu phát hiện.
 - Yêu cầu gỡ bỏ bản dịch (nếu cần) cũng có thể liên hệ trực tiếp.
 
@@ -67,12 +67,6 @@
 > **Cảm ơn bạn đã sử dụng bản dịch! Hãy góp ý để chúng ta có một bản dịch hoàn chỉnh nhất cho cộng đồng Minecraft Việt Nam!**
 - **[@Tlgm](https://youtube.com/@TLGM2308)**
 - *[Kênh của tôi](https://youtube.com/@Sang_VN)*
-# Vấn đề của gói:
-**Vấn đề đã biết:** 
-1. Gói này có một vấn đề chưa được giải quyết đó là dịch các quần xã sinh vật trong lệnh **/locate biome**
-2. **Chỉ hỗ trợ** màn hình "bạn đã chết" mới từ phiên bản **[beta 1.20.70.22](https://minecraft.wiki/w/Bedrock_Edition_Preview_1.20.70.22)** trở lên và phiên bản từ **[1.20.70](https://minecraft.wiki/w/Bedrock_Edition_1.20.70)** trở lên
-4. Không thế dịch một số mục của Marketplace
-5. Không thể dịch thư được gửi từ Mojang
 # Bạn có thể:
 - Đóng góp ý kiến về nghĩa của bản dịch tại đây hoặc trên kênh Youtube của tôi.
 - Báo cáo các lỗi trong bản dịch(nếu có).
