@@ -5,37 +5,40 @@
     "name": "The Ty-el's Vietnamese Language Pack",
     "uuid": "2307a814-1b5a-71a9-4261-9873efdea23f",
     "version": [ 1, 6, 6 ],
-    "min_engine_version": [ 1, 26, 40 ]
+    "min_engine_version": [ 1, 26, 60 ]
   },
   "modules": [
     {
-      "description": "@tlgm2308 is the bad creator.",
+      "description": "@tlgm2308 is a bad creator.",
       "type": "resources",
       "uuid": "2380e48a-aa67-418a-8172-23a57bd3f42e",
-      "version": [ 1, 6, 6 ]
+      "version": "1.6.8-c708ce7"
     }
   ],
   "subpacks": [
     {
       "folder_name": "none",
       "name": "None (Customizable)",
-      "memory_tier": 0
+      "memory_performance_tier": 0
     },
     {
       "folder_name": "unifont",
       "name": "Unifont + Noto Sans",
-      "memory_tier": 0
+      "memory_performance_tier": 0
     },
     {
       "folder_name": "minecraftSeven_smooth",
       "name": "MinecraftSeven (Smooth Variant)",
-      "memory_tier": 0
+      "memory_performance_tier": 0
     },
     {
       "folder_name": "minecraftSeven",
       "name": "MinecraftSeven [Default]",
-      "memory_tier": 0
+      "memory_performance_tier": 0
     }
+  ],
+  "capabilities": [
+    "pbr"
   ],
   "metadata": {
     "authors": [ "tlgm2308" ],
